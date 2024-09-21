@@ -8,5 +8,6 @@ namespace prog1.Models
 {
     internal class car
     {
+        int id;
     }
 }
