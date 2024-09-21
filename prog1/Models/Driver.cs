@@ -9,5 +9,6 @@ namespace prog1.Models
     internal class Driver
     {
         string name;
+        int id;
     }
 }
