@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TemeronX\\source\\repos\\prog1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A607F626-E7E8-493A-AFA0-7B0415C84118}|prog1\\prog1.csproj|c:\\users\\temeronx\\source\\repos\\prog1\\prog1\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607F626-E7E8-493A-AFA0-7B0415C84118}|prog1\\prog1.csproj|solutionrelative:prog1\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607F626-E7E8-493A-AFA0-7B0415C84118}|prog1\\prog1.csproj|c:\\users\\temeronx\\source\\repos\\prog1\\prog1\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{A607F626-E7E8-493A-AFA0-7B0415C84118}|prog1\\prog1.csproj|solutionrelative:prog1\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A607F626-E7E8-493A-AFA0-7B0415C84118}|prog1\\prog1.csproj|c:\\users\\temeronx\\source\\repos\\prog1\\prog1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A607F626-E7E8-493A-AFA0-7B0415C84118}|prog1\\prog1.csproj|solutionrelative:prog1\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\TemeronX\\source\\repos\\prog1\\prog1\\Models\\car.cs",
+              "RelativeDocumentMoniker": "prog1\\Models\\car.cs",
+              "ToolTip": "C:\\Users\\TemeronX\\source\\repos\\prog1\\prog1\\Models\\car.cs",
+              "RelativeToolTip": "prog1\\Models\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:10:08.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\TemeronX\\source\\repos\\prog1\\prog1\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "prog1\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\TemeronX\\source\\repos\\prog1\\prog1\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "prog1\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T13:29:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TemeronX\\source\\repos\\prog1\\prog1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "prog1\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\TemeronX\\source\\repos\\prog1\\prog1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "prog1\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:29:26.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
